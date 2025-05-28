@@ -22,7 +22,7 @@ This project implements a recommendation system for Amazon electronics using a d
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/RecSys-Amazon.git
+git clone https://github.com/lukalacious/RecSys-Amazon.git
 cd RecSys-Amazon
 pip install -r requirements.txt
 ```
@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Luke Roberts - lukejrobertsza@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/RecSys-Amazon](https://github.com/YOUR_USERNAME/RecSys-Amazon)
+Project Link: [https://github.com/lukalacious/RecSys-Amazon](https://github.com/lukalacious/RecSys-Amazon)
 
 ---
 
